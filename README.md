@@ -14,11 +14,6 @@ Welcome to my social media platform project! This platform is built using PHP an
 - **Web Development:** Experience in creating responsive and dynamic web applications.
 - **Database Management:** Proficient in MySQL and database optimization techniques.
 
-## 📈 GitHub Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed2007Sarhan&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2007Sarhan&layout=compact&theme=radical"/>
-</div>
 
 ## 🔧 Get In Touch
 - **Email:** [Send me an Email](mailto:sarhanmuhammad584@gmail.com)
